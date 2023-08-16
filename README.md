@@ -1,6 +1,6 @@
 # 'Navigating the New Normal: Examining Co-Attendance in a Hybrid Work Environment' Research Code Repository
 
-This repo include Python/R scripts to produce analysis results and visualizations for the hybrid co-attendance research. 
+This repo includes Python/R scripts to produce analysis results and visualizations for the hybrid co-attendance research. 
 
 If you have any questions regarding the scripts, please email me at dehzhang@microsoft.com. 
 
