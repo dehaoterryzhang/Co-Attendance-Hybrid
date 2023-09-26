@@ -32,3 +32,9 @@
 | US       | post   | 0.2677   | Teammates | 0.0849    | 0.0012 | 0.3171          |
 | US       | pre    | 0.0935   | Manager   | 0.1297    | 0.0043 | 1.3872          |
 | US       | pre    | 0.0935   | Teammates | 0.0558    | 0.0016 | 0.5968          |
+
+# Building:date FEs
+| Model                                   | Manager PP effect | SE     | Teammate PP effect (100%   attendance) | SE     |
+|-----------------------------------------|-------------------|--------|----------------------------------------|--------|
+| Linear, individual FE, date FE          | 0.0851            | 0.0012 | 0.1841                                 | 0.0032 |
+| Linear, individual FE, building:date FE | 0.0802            | 0.0012 | 0.1646                                 | 0.0032 |
