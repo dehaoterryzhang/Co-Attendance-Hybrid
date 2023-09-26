@@ -28,7 +28,7 @@
 # Linear TWFE
 | Category | Period | Baseline | Variable  | PP_Effect | SE     | Relative_Effect |
 |----------|--------|----------|-----------|-----------|--------|-----------------|
-| US       | pre    | 0.0935   | Manager   | 0.1297    | 0.0043 | 1.3872          |
-| US       | pre    | 0.0935   | Teammates | 0.0558    | 0.0016 | 0.5968          |
 | US       | post   | 0.2677   | Manager   | 0.1852    | 0.0032 | 0.6918          |
 | US       | post   | 0.2677   | Teammates | 0.0849    | 0.0012 | 0.3171          |
+| US       | pre    | 0.0935   | Manager   | 0.1297    | 0.0043 | 1.3872          |
+| US       | pre    | 0.0935   | Teammates | 0.0558    | 0.0016 | 0.5968          |
