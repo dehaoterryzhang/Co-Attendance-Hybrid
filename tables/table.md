@@ -1,3 +1,5 @@
+# Logit TWFE
+
 | Category     | Period | Baseline | Variable  | PP_Effect |    SE    | CI_Lower | CI_Upper | Relative_Effect |   SE   | CI_Lower_Relative | CI_Upper_Relative |
 |--------------|--------|----------|-----------|-----------|----------|----------|----------|-----------------|--------|-------------------|-------------------|
 | US           | Post   | 0.2677   | Manager   | 0.0771    | 0.0012   | 0.0747   | 0.0794   | 0.2880          | 0.0049 | 0.2772            | 0.2974            |
