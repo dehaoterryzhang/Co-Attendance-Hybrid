@@ -25,6 +25,8 @@
 | Neighborhood | post   | 0.2656   | Manager   | 0.0758    | 0.0021   | 0.0717   | 0.0797   | 0.2854          | 0.0095 | 0.2650            | 0.3015            |
 | Neighborhood | post   | 0.2656   | Teammates | 0.0451    | 0.0014   | 0.0423   | 0.0477   | 0.1697          | 0.0056 | 0.1536            | 0.1747            |
 
+Note: Relative effect for manager is the marginal effect of manager's presence in the regression.  Relative effect for teammates is the marginal effect of the fraction of in-person teammates multiplied by the standard deviation of this fraction. 
+
 # Linear TWFE
 | Category | Period | Baseline | Variable  | PP_Effect | SE     | Relative_Effect |
 |----------|--------|----------|-----------|-----------|--------|-----------------|
@@ -32,6 +34,9 @@
 | US       | post   | 0.2677   | Teammates | 0.0849    | 0.0012 | 0.3171          |
 | US       | pre    | 0.0935   | Manager   | 0.1297    | 0.0043 | 1.3872          |
 | US       | pre    | 0.0935   | Teammates | 0.0558    | 0.0016 | 0.5968          |
+
+Note: Relative effect for manager is the marginal effect of manager's presence in the regression.  Relative effect for teammates is the marginal effect of the fraction of in-person teammates multiplied by the standard deviation of this fraction. 
+
 
 # Building:date FEs
 | Model                                   | Manager PP effect | SE     | Teammate PP effect (100%   attendance) | SE     |
